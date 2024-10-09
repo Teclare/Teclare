@@ -1,4 +1,4 @@
-# 안녕하세요, 하드웨어 엔지니어입니다! 👋🛠️
+# 목표는 비범하게, 행동은 과감하게, 삶은 예술적으로. 🔥�️
 
 ## 🔧 기술 스택
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
