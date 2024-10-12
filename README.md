@@ -26,12 +26,12 @@
 
 ## 📊 GitHub 통계
 
-![GitHub 통계](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![GitHub 통계](https://github-readme-stats.vercel.app/api?username=Teclare&show_icons=true&theme=radical)
 
 ## 📫 연락처
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn-URL)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kdhisme/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@kdhis.me)
 
 ---
 
